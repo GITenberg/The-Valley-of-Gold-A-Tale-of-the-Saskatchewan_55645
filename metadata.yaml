@@ -1,5 +1,5 @@
 _repo: The-Valley-of-Gold-A-Tale-of-the-Saskatchewan_55645
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Taylor, Henry Weston
@@ -7,12 +7,17 @@ contributor:
     birthdate: 1881
     gutenberg_agent_id: '25234'
     url: http://www.gutenberg.org/2009/agents/25234
+covers:
+- cover_type: archival
+  image_path: 55645-rst/images/img-cover.jpg
 creator:
   author:
     agent_name: Howarth, David
     gutenberg_agent_id: '48436'
     url: http://www.gutenberg.org/2009/agents/48436
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55645#The-Valley-of-Gold-A-Tale-of-the-Saskatchewan
 gutenberg_issued: '2017-09-27'
 gutenberg_type: Text
 identifiers:
